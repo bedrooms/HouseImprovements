@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="USA",AMC
-http://185.232.53.5:2086/wickeduk/etqyhww45e/562
 #EXTINF:-1,US: AMC FHD 1080
 http://185.232.53.5:2086/wickeduk/etqyhww45e/64158
-#EXTINF:-1 group-title="TEST",SYFY
-http://185.232.53.5:2086/wickeduk/etqyhww45e/64037
