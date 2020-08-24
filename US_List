@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="USA",AMC
 http://185.232.53.5:2086/wickeduk/etqyhww45e/562
-#EXTINF:-1 tvg-ID="I611.90653.schedulesdirect.org" tvg-name="611 AMC" group-title="USA FHD",AMC HD EPG
+#EXTINF:-1 tvg-ID="I611.90653.schedulesdirect.org" tvg-name="611 AMC" group-title="USA FHD",611
 http://185.232.53.5:2086/wickeduk/etqyhww45e/64158
 #EXTINF:-1 group-title="TEST",SYFY
 http://185.232.53.5:2086/wickeduk/etqyhww45e/64037
