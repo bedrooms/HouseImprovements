@@ -1,3 +1,985 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="I254.10021.schedulesdirect.org",US: ES AMC EPGID
+#EXTINF:-1 group-title="USA",A&E
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13558
+#EXTINF:-1 group-title="USA FHD",A&E
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64160
+#EXTINF:-1 group-title="USA",ACC NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/58373
+#EXTINF:-1 group-title="USA",ACCU WEATHER
+http://185.232.53.5:2086/wickeduk/etqyhww45e/63468
+#EXTINF:-1 group-title="USA",ADULT SWIM
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15517
+#EXTINF:-1 tvg-ID="I254.10021.schedulesdirect.org" group-title="USA",AMC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/562
+#EXTINF:-1 group-title="USA FHD",US: AMC
 http://185.232.53.5:2086/wickeduk/etqyhww45e/64158
+#EXTINF:-1 group-title="USA FHD",AMERICAN HEROES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64155
+#EXTINF:-1 group-title="USA FHD",ANIMAL PLANET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64154
+#EXTINF:-1 group-title="USA",AWE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/21792
+#EXTINF:-1 group-title="USA FHD",AWE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64157
+#EXTINF:-1 group-title="USA Kids FHD",BABY TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64150
+#EXTINF:-1 group-title="USA News",BBC AMERICA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1277
+#EXTINF:-1 group-title="USA News FHD",BBC AMERICA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64153
+#EXTINF:-1 group-title="USA News",BLOOMBERG TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/4680
+#EXTINF:-1 group-title="USA News FHD",BLOOMBERG TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64149
+#EXTINF:-1 group-title="USA",BOUNCE TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14059
+#EXTINF:-1 group-title="USA",BRAVO
+http://185.232.53.5:2086/wickeduk/etqyhww45e/315
+#EXTINF:-1 group-title="USA FHD",BRAVO FHD 1080
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64147
+#EXTINF:-1 group-title="USA",BUZZR
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15511
+#EXTINF:-1 group-title="USA",BYU TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14068
+#EXTINF:-1 group-title="USA FHD",CARTOON NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64139
+#EXTINF:-1 group-title="USA Sports",CBS SPORTS HQ
+http://185.232.53.5:2086/wickeduk/etqyhww45e/6730
+#EXTINF:-1 group-title="USA Sports",CBS SPORTS NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/220
+#EXTINF:-1 group-title="USA Sports FHD",CBS SPORTS NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64144
+#EXTINF:-1 group-title="USA",CHARGE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/46415
+#EXTINF:-1 group-title="USA FHD",CINEMAX EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64136
+#EXTINF:-1 group-title="USA",CLASSIC ARTS SHOWCASE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8834
+#EXTINF:-1 group-title="USA", CMT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13745
+#EXTINF:-1 group-title="USA FHD", CMT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64143
+#EXTINF:-1 group-title="USA FHD", CNBC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64142
+#EXTINF:-1 group-title="USA", CNBC WORLD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14878
+#EXTINF:-1 group-title="USA FHD", CNBC WORLD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64141
+#EXTINF:-1 group-title="USA FHD", CNN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64140
+#EXTINF:-1 group-title="USA FHD", COMEDY CENTRAL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64135
+#EXTINF:-1 group-title="USA", COMEDY TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/63643
+#EXTINF:-1 group-title="USA FHD", COMET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64163
+#EXTINF:-1 group-title="USA", CONTV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56019
+#EXTINF:-1 group-title="USA", COOKING 4U
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8
+#EXTINF:-1 group-title="USA", COOKING CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/211
+#EXTINF:-1 group-title="USA FHD", COOKING CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64134
+#EXTINF:-1 group-title="USA", COZI TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14900
+#EXTINF:-1 group-title="USA", CTS AMERICA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56144
+#EXTINF:-1 group-title="USA", CW
+http://185.232.53.5:2086/wickeduk/etqyhww45e/319
+#EXTINF:-1 group-title="USA", CW 11
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15345
+#EXTINF:-1 group-title="USA", DANCESTAR TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/36330
+#EXTINF:-1 group-title="USA", DC COUNCIL CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/36332
+#EXTINF:-1 group-title="USA", DESTINATION AMERICA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14946
+#EXTINF:-1 group-title="USA FHD", DESTINATION AMERICA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64164
+#EXTINF:-1 group-title="USA", DISCOVERY FAMILY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14879
+#EXTINF:-1 group-title="USA FHD", DISCOVERY FAMILY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64132
+#EXTINF:-1 group-title="USA", DISCOVERY LIFE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14880
+#EXTINF:-1 group-title="USA FHD", DISCOVERY SCIENCE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64044
+#EXTINF:-1 group-title="USA FHD", DISNEY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64131
+#EXTINF:-1 group-title="USA FHD", DISNEY JUNIOR
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64130
+#EXTINF:-1 group-title="USA FHD", DISNEY XD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64129
+#EXTINF:-1 group-title="USA", DISTRICT KNOWLEDGE NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15475
+#EXTINF:-1 group-title="USA", DIY NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13568
+#EXTINF:-1 group-title="USA FHD", DIY NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64133
+#EXTINF:-1 group-title="USA", DOCUMENTARIES 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+#EXTINF:-1 group-title="USA", DOCURAMA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/25779
+#EXTINF:-1 group-title="USA", E!  WEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15414
+#EXTINF:-1 group-title="USA FHD", E!
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64128
+#EXTINF:-1 group-title="USA", E!
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14942
+#EXTINF:-1 group-title="USA", EL REY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1272
+#EXTINF:-1 group-title="USA FHD", EL REY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64123
+#EXTINF:-1 group-title="USA", EPIX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13606
+#EXTINF:-1 group-title="USA", EPIX 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/42473
+#EXTINF:-1 group-title="USA FHD", EPIX 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64121
+#EXTINF:-1 group-title="USA", EPIX DRIVE IN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56132
+#EXTINF:-1 group-title="USA FHD", EPIX DRIVE IN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64120
+#EXTINF:-1 group-title="USA FHD", EPIX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64122
+#EXTINF:-1 group-title="USA", EPIX HITS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14941
+#EXTINF:-1 group-title="USA FHD", EPIX HITS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64119
+#EXTINF:-1 group-title="USA", ESPN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13604
+#EXTINF:-1 group-title="USA", ESPN 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/343
+#EXTINF:-1 group-title="USA FHD", ESPN 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64126
+#EXTINF:-1 group-title="USA FHD", ESPN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64127
+#EXTINF:-1 group-title="USA", ESPN NEWS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1702
+#EXTINF:-1 group-title="USA FHD", ESPN NEWS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64125
+#EXTINF:-1 group-title="USA", ESPN PLUS 02
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37414
+#EXTINF:-1 group-title="USA", ESPN PLUS 03
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37413
+#EXTINF:-1 group-title="USA", ESPN PLUS 04
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37412
+#EXTINF:-1 group-title="USA", ESPN PLUS 05
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37411
+#EXTINF:-1 group-title="USA", ESPN PLUS 06
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37410
+#EXTINF:-1 group-title="USA", ESPN PLUS 07
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37409
+#EXTINF:-1 group-title="USA", ESPN PLUS 08
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37408
+#EXTINF:-1 group-title="USA", ESPN PLUS 09
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37407
+#EXTINF:-1 group-title="USA", ESPN PLUS 10
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37406
+#EXTINF:-1 group-title="USA", ESPN PLUS 11
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37405
+#EXTINF:-1 group-title="USA", ESPN PLUS 12
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37404
+#EXTINF:-1 group-title="USA", ESPN PLUS 13
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37403
+#EXTINF:-1 group-title="USA", ESPN PLUS 14
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37402
+#EXTINF:-1 group-title="USA", ESPN PLUS 15
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37401
+#EXTINF:-1 group-title="USA", ESPN PLUS 16
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37400
+#EXTINF:-1 group-title="USA", ESPN PLUS 17
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37399
+#EXTINF:-1 group-title="USA", ESPN PLUS 18
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37398
+#EXTINF:-1 group-title="USA", ESPN PLUS 19
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37397
+#EXTINF:-1 group-title="USA", ESPN PLUS 20
+http://185.232.53.5:2086/wickeduk/etqyhww45e/37396
+#EXTINF:-1 group-title="USA", ESPN PLUS 21
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64515
+#EXTINF:-1 group-title="USA", ESPN PLUS 22
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64514
+#EXTINF:-1 group-title="USA", ESPN PLUS 23
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64513
+#EXTINF:-1 group-title="USA", ESPN PLUS 24
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64512
+#EXTINF:-1 group-title="USA", ESPN PLUS 25
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64511
+#EXTINF:-1 group-title="USA", ESPN PLUS 26
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64510
+#EXTINF:-1 group-title="USA", ESPN PLUS 27
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64509
+#EXTINF:-1 group-title="USA", ESPN PLUS 28
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64508
+#EXTINF:-1 group-title="USA", ESPN PLUS 29
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64507
+#EXTINF:-1 group-title="USA", ESPN PLUS 30
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64506
+#EXTINF:-1 group-title="USA", ESPN U
+http://185.232.53.5:2086/wickeduk/etqyhww45e/475
+#EXTINF:-1 group-title="USA FHD", ESPN U
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64124
+#EXTINF:-1 group-title="USA", EXERCISE TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/52919
+#EXTINF:-1 group-title="USA", FISHING TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/52917
+#EXTINF:-1 group-title="USA", FM FUSE MUSIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/63650
+#EXTINF:-1 group-title="USA", FOOD NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/195
+#EXTINF:-1 group-title="USA FHD", FOOD NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64114
+#EXTINF:-1 group-title="USA", FOX BUSINESS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/472
+#EXTINF:-1 group-title="USA FHD", FOX BUSINESS NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64113
+#EXTINF:-1 group-title="USA", FOX DEPORTES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15370
+#EXTINF:-1 group-title="USA", FOX NEWS CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/252
+#EXTINF:-1 group-title="USA FHD", FOX NEWS CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64112
+#EXTINF:-1 group-title="USA", FOX SOCCER PLUS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/11926
+#EXTINF:-1 group-title="USA FHD", FOX SPORTS 1
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64111
+#EXTINF:-1 group-title="USA", FOX SPORTS 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/187
+#EXTINF:-1 group-title="USA FHD", FOX SPORTS 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64110
+#EXTINF:-1 group-title="USA", FOX SPORTS ARIZONA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13403
+#EXTINF:-1 group-title="USA", FOX SPORTS DETROIT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15064
+#EXTINF:-1 group-title="USA", FOX SPORTS FLORIDA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15119
+#EXTINF:-1 group-title="USA", FOX SPORTS MIDWEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15123
+#EXTINF:-1 group-title="USA", FOX SPORTS NORTH
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3072
+#EXTINF:-1 group-title="USA", FOX SPORTS OHIO
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8674
+#EXTINF:-1 group-title="USA", FOX SPORTS OKLAHOMA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/45587
+#EXTINF:-1 group-title="USA", FOX SPORTS PRIME TICKET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15421
+#EXTINF:-1 group-title="USA", FOX SPORTS SAN DIEGO
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15121
+#EXTINF:-1 group-title="USA", FOX SPORTS SAN DIEGO PLUS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/44696
+#EXTINF:-1 group-title="USA", FOX SPORTS SOUTH
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15124
+#EXTINF:-1 group-title="USA", FOX SPORTS SOUTHEAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14897
+#EXTINF:-1 group-title="USA", FOX SPORTS SOUTHWEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15422
+#EXTINF:-1 group-title="USA", FOX SPORTS SUN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15120
+#EXTINF:-1 group-title="USA", FOX SPORTS WEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/18659
+#EXTINF:-1 group-title="USA", FUSE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15464
+#EXTINF:-1 group-title="USA FHD", FUSE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64109
+#EXTINF:-1 group-title="USA", FX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/324
+#EXTINF:-1 group-title="USA FHD", FX MOVIE CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64117
+#EXTINF:-1 group-title="USA", FXM
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1271
+#EXTINF:-1 group-title="USA", FXX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/323
+#EXTINF:-1 group-title="USA FHD", FXX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64116
+#EXTINF:-1 group-title="USA FHD", FYI
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64115
+#EXTINF:-1 group-title="USA", FYI NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/342
+#EXTINF:-1 group-title="USA", GAME SHOW NETWORK (GSN)
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13607
+#EXTINF:-1 group-title="USA", GEM SHOPPING NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/63464
+#EXTINF:-1 group-title="USA", GOLF CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/390
+#EXTINF:-1 group-title="USA FHD", GOLF CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64105
+#EXTINF:-1 group-title="USA", GRIT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15371
+#EXTINF:-1 group-title="USA FHD", GSN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64106
+#EXTINF:-1 group-title="USA", H2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/309
+#EXTINF:-1 group-title="USA FHD", HALLMARK CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64099
+#EXTINF:-1 group-title="USA", HALLMARK DRAMA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14869
+#EXTINF:-1 group-title="USA FHD", HALLMARK DRAMA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64097
+#EXTINF:-1 group-title="USA", HALLMARK MOVIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14947
+#EXTINF:-1 group-title="USA FHD", HALLMARK MOVIES & MYSTERIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64098
+#EXTINF:-1 group-title="USA", HBO EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14948
+#EXTINF:-1 group-title="USA FHD", HBO EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64104
+#EXTINF:-1 group-title="USA FHD", HBO FAMILY EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64103
+#EXTINF:-1 group-title="USA FHD", HBO LATINO
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64102
+#EXTINF:-1 group-title="USA", HBO SIGNATURE EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/2492
+#EXTINF:-1 group-title="USA", HDNET MOVIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56133
+#EXTINF:-1 group-title="USA", HGTV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/4212
+#EXTINF:-1 group-title="USA FHD", HGTV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64101
+#EXTINF:-1 group-title="USA", HISTORY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/251
+#EXTINF:-1 group-title="USA FHD", HISTORY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64096
+#EXTINF:-1 group-title="USA", HLN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14896
+#EXTINF:-1 group-title="USA FHD", HLN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64100
+#EXTINF:-1 group-title="USA", HSN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15487
+#EXTINF:-1 group-title="USA", HSN 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/57571
+#EXTINF:-1 group-title="USA", IFC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/611
+#EXTINF:-1 group-title="USA FHD", IFC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64095
+#EXTINF:-1 group-title="USA", INFO WARS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13824
+#EXTINF:-1 group-title="USA", INVESTIGATION DISCOVERY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13608
+#EXTINF:-1 group-title="USA FHD", INVESTIGATION DISCOVERY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64094
+#EXTINF:-1 group-title="USA", JUSTICE CENTRAL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/63642
+#EXTINF:-1 group-title="USA", KARTOON FUN TIME
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
+#EXTINF:-1 group-title="USA", LIFETIME
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15491
+#EXTINF:-1 group-title="USA FHD", LIFETIME
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64093
+#EXTINF:-1 group-title="USA", LIFETIME MOVIE NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/338
+#EXTINF:-1 group-title="USA FHD", LIFETIME MOVIE NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64092
+#EXTINF:-1 group-title="USA", LOGO TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56134
+#EXTINF:-1 group-title="USA", MAV TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1073
+#EXTINF:-1 group-title="USA", MELLO
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1662
+#EXTINF:-1 group-title="USA", MLB NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/160
+#EXTINF:-1 group-title="USA FHD", MLB NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64091
+#EXTINF:-1 group-title="USA", MOTOR TREND
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13585
+#EXTINF:-1 group-title="USA FHD", MOTOR TREND
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64087
+#EXTINF:-1 group-title="USA", MOVEE 4U
+http://185.232.53.5:2086/wickeduk/etqyhww45e/23613
+#EXTINF:-1 group-title="USA", MSG
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3113
+#EXTINF:-1 group-title="USA", MSG +
+http://185.232.53.5:2086/wickeduk/etqyhww45e/86841
+#EXTINF:-1 group-title="USA", MSG 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/18667
+#EXTINF:-1 group-title="USA", MSNBC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/337
+#EXTINF:-1 group-title="USA FHD", MSNBC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64090
+#EXTINF:-1 group-title="USA", MTV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/158
+#EXTINF:-1 group-title="USA", MTV 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15488
+#EXTINF:-1 group-title="USA FHD", MTV 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64088
+#EXTINF:-1 group-title="USA FHD", MTV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64089
+#EXTINF:-1 group-title="USA", MTV LIVE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8848
+#EXTINF:-1 group-title="USA", MTV U
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56360
+#EXTINF:-1 group-title="USA", MY LIFE TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/52913
+#EXTINF:-1 group-title="USA", MY9
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1613
+#EXTINF:-1 group-title="USA FHD", NATIONAL GEO WILD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64083
+#EXTINF:-1 group-title="USA", NATIONAL GEOGRAPHIC CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/247
+#EXTINF:-1 group-title="USA FHD", NATIONAL GEOGRAPHIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64082
+#EXTINF:-1 group-title="USA", NATIONAL GEOGRAPHIC WILD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/157
+#EXTINF:-1 group-title="USA", NBA ATLANTA HAWKS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/375
+#EXTINF:-1 group-title="USA", NBA BOSTON CELTICS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/380
+#EXTINF:-1 group-title="USA", NBA CHARLOTTE HORNETS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/374
+#EXTINF:-1 group-title="USA", NBA CHICAGO BULLS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/369
+#EXTINF:-1 group-title="USA", NBA CLEVELAND CAVALIERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/379
+#EXTINF:-1 group-title="USA", NBA DALLAS MAVERICKS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55035
+#EXTINF:-1 group-title="USA", NBA DENVER NUGGETS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/2893
+#EXTINF:-1 group-title="USA", NBA DETROIT PISTONS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/378
+#EXTINF:-1 group-title="USA", NBA GOLDEN STATE WARRIORS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55030
+#EXTINF:-1 group-title="USA", NBA HOUSTON ROCKETS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55036
+#EXTINF:-1 group-title="USA", NBA INDIANA PACERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/377
+#EXTINF:-1 group-title="USA", NBA LOS ANGELES CLIPPERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55031
+#EXTINF:-1 group-title="USA", NBA LOS ANGELES LAKERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55032
+#EXTINF:-1 group-title="USA", NBA MEMPHIS GRIZZLIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55037
+#EXTINF:-1 group-title="USA", NBA MIAMI HEAT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/2896
+#EXTINF:-1 group-title="USA", NBA MILWAUKEE BUCKS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/376
+#EXTINF:-1 group-title="USA", NBA MINNESOTA TIMBERWOLVES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/2892
+#EXTINF:-1 group-title="USA", NBA NEW ORLEANS PELICANS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55038
+#EXTINF:-1 group-title="USA", NBA NEW YORK KNICKS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/372
+#EXTINF:-1 group-title="USA", NBA OKLAHOMA CITY THUNDER
+http://185.232.53.5:2086/wickeduk/etqyhww45e/2891
+#EXTINF:-1 group-title="USA", NBA ORLANDO MAGIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/2895
+#EXTINF:-1 group-title="USA", NBA PHILADELPHIA 76ERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/371
+#EXTINF:-1 group-title="USA", NBA PHOENIX SUNS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55033
+#EXTINF:-1 group-title="USA", NBA PORTLAND TRAIL BLAZERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/2890
+#EXTINF:-1 group-title="USA", NBA SACRAMENTO KINGS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55034
+#EXTINF:-1 group-title="USA", NBA SAN ANTONIO SPURS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55039
+#EXTINF:-1 group-title="USA", NBA TORONTO RAPTORS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/370
+#EXTINF:-1 group-title="USA", NBA TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/336
+#EXTINF:-1 group-title="USA FHD", NBA TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64086
+#EXTINF:-1 group-title="USA", NBA UTAH JAZZ
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55019
+#EXTINF:-1 group-title="USA", NBA WASHINGTON WIZARDS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/2894
+#EXTINF:-1 group-title="USA", NBC SPORTS BAY AREA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13529
+#EXTINF:-1 group-title="USA", NBC SPORTS BOSTON
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13528
+#EXTINF:-1 group-title="USA FHD", NBC SPORTS NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64085
+#EXTINF:-1 group-title="USA", NBC SPORTS NORTHWEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13522
+#EXTINF:-1 group-title="USA", NBC SPORTS PHILADELPHIA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13526
+#EXTINF:-1 group-title="USA", NBCSN (NBC SPORTS NETWORK)
+http://185.232.53.5:2086/wickeduk/etqyhww45e/149
+#EXTINF:-1 group-title="USA", NESN BOSTON
+http://185.232.53.5:2086/wickeduk/etqyhww45e/18671
+#EXTINF:-1 group-title="USA", NESN PLUS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/18668
+#EXTINF:-1 group-title="USA", NEW ORLEANS TELEVISION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15486
+#EXTINF:-1 group-title="USA", NEWS12 CONNECTICUT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/90509
+#EXTINF:-1 group-title="USA", NEWS12 HUDSON VALLEY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/90510
+#EXTINF:-1 group-title="USA", NEWS12 LONG ISLAND
+http://185.232.53.5:2086/wickeduk/etqyhww45e/90511
+#EXTINF:-1 group-title="USA", NEWS12 NEW JERSEY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/90512
+#EXTINF:-1 group-title="USA", NEWS12 THE BRONX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/90506
+#EXTINF:-1 group-title="USA", NEWS12 WESTCHESTER
+http://185.232.53.5:2086/wickeduk/etqyhww45e/90508
+#EXTINF:-1 group-title="USA", NEWSMAX TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/21942
+#EXTINF:-1 group-title="USA", NEWSNET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/48028
+#EXTINF:-1 group-title="USA", NEWSY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/62320
+#EXTINF:-1 group-title="USA", NFL DETROIT LIONS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/358
+#EXTINF:-1 group-title="USA", NFL ARIZONA CARDINALS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/28515
+#EXTINF:-1 group-title="USA", NFL ATLANTA FALCONS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/367
+#EXTINF:-1 group-title="USA", NFL BALTIMORE RAVENS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55086
+#EXTINF:-1 group-title="USA", NFL BUFFALO BILLS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55090
+#EXTINF:-1 group-title="USA", NFL CAROLINA PANTHERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/365
+#EXTINF:-1 group-title="USA", NFL CHICAGO BEARS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/359
+#EXTINF:-1 group-title="USA", NFL CINCINNATI BENGALS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55089
+#EXTINF:-1 group-title="USA", NFL CLEVELAND BROWNS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55078
+#EXTINF:-1 group-title="USA", NFL DALLAS COWBOYS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/363
+#EXTINF:-1 group-title="USA", NFL DENVER BRONCOS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55084
+#EXTINF:-1 group-title="USA", NFL GREEN BAY PACKERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/360
+#EXTINF:-1 group-title="USA", NFL HOUSTON TEXANS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55091
+#EXTINF:-1 group-title="USA", NFL INDIANAPOLIS COLTS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55076
+#EXTINF:-1 group-title="USA", NFL JACKSONVILLE JAGUARS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55093
+#EXTINF:-1 group-title="USA", NFL KANSAS CITY CHIEFS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55087
+#EXTINF:-1 group-title="USA", NFL LOS ANGELES CHARGERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55094
+#EXTINF:-1 group-title="USA", NFL LOS ANGELES RAMS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/4754
+#EXTINF:-1 group-title="USA", NFL MIAMI DOLPHINS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55085
+#EXTINF:-1 group-title="USA", NFL MINNESOTA VIKINGS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/357
+#EXTINF:-1 group-title="USA", NFL NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/308
+#EXTINF:-1 group-title="USA FHD", NFL NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64168
+#EXTINF:-1 group-title="USA", NFL NEW ENGLAND PATRIOTS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55080
+#EXTINF:-1 group-title="USA", NFL NEW ORLEANS SAINTS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/366
+#EXTINF:-1 group-title="USA", NFL NEW YORK GIANTS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/17395
+#EXTINF:-1 group-title="USA", NFL NEW YORK JETS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55088
+#EXTINF:-1 group-title="USA", NFL OAKLAND RAIDERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55083
+#EXTINF:-1 group-title="USA", NFL PHILADELPHIA EAGLES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/361
+#EXTINF:-1 group-title="USA", NFL PITTSBURGH STEELERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55075
+#EXTINF:-1 group-title="USA", NFL REDZONE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/2913
+#EXTINF:-1 group-title="USA", NFL SAN FRANCISCO 49ERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/364
+#EXTINF:-1 group-title="USA", NFL SEATTLE SEAHAWKS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55077
+#EXTINF:-1 group-title="USA", NFL TAMPA BAY BUCCANEERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/356
+#EXTINF:-1 group-title="USA", NFL TENNESSEE TITANS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55092
+#EXTINF:-1 group-title="USA", NFL WASHINGTON FOOTBALL TEAM
+http://185.232.53.5:2086/wickeduk/etqyhww45e/362
+#EXTINF:-1 group-title="USA", NHL ANAHEIM DUCKS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55055
+#EXTINF:-1 group-title="USA", NHL ARIZONA COYOTES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55054
+#EXTINF:-1 group-title="USA", NHL BOSTON BRUINS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/415
+#EXTINF:-1 group-title="USA", NHL BUFFALO SABRES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/414
+#EXTINF:-1 group-title="USA", NHL CALGARY FLAMES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55053
+#EXTINF:-1 group-title="USA", NHL CAROLINA HURRICANES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/416
+#EXTINF:-1 group-title="USA", NHL CHICAGO BLACKHAWKS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3441
+#EXTINF:-1 group-title="USA", NHL COLORADO AVALANCHE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3994
+#EXTINF:-1 group-title="USA", NHL COLUMBUS BLUE JACKETS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/411
+#EXTINF:-1 group-title="USA", NHL DALLAS STARS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3995
+#EXTINF:-1 group-title="USA", NHL DETROIT RED WINGS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/413
+#EXTINF:-1 group-title="USA", NHL EDMONTON OILERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55052
+#EXTINF:-1 group-title="USA", NHL FLORIDA PANTHERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13792
+#EXTINF:-1 group-title="USA", NHL LOS ANGELES KINGS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55051
+#EXTINF:-1 group-title="USA", NHL MINNESOTA WILD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3996
+#EXTINF:-1 group-title="USA", NHL MONTREAL CANADIENS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3118
+#EXTINF:-1 group-title="USA", NHL NASHVILLE PREDATORS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/36451
+#EXTINF:-1 group-title="USA", NHL NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/147
+#EXTINF:-1 group-title="USA FHD", NHL NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64084
+#EXTINF:-1 group-title="USA", NHL NEW JERSEY DEVILS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/410
+#EXTINF:-1 group-title="USA", NHL NEW YORK ISLANDERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/409
+#EXTINF:-1 group-title="USA", NHL NEW YORK RANGERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/408
+#EXTINF:-1 group-title="USA", NHL OTTAWA SENATORS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3439
+#EXTINF:-1 group-title="USA", NHL PHILADELPHIA FLYERS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/406
+#EXTINF:-1 group-title="USA", NHL PITTSBURGH PENGUINS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/405
+#EXTINF:-1 group-title="USA", NHL SAN JOSE SHARKS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55050
+#EXTINF:-1 group-title="USA", NHL ST LOUIS BLUES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55057
+#EXTINF:-1 group-title="USA", NHL TAMPA BAY LIGHTNING
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3431
+#EXTINF:-1 group-title="USA", NHL TORONTO MAPLE LEAFS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3440
+#EXTINF:-1 group-title="USA", NHL VANCOUVER CANUCKS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55049
+#EXTINF:-1 group-title="USA", NHL VEGAS GOLDEN KNIGHTS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55048
+#EXTINF:-1 group-title="USA", NHL WASHINGTON CAPITALS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/404
+#EXTINF:-1 group-title="USA", NHL WINNIPEG JETS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55056
+#EXTINF:-1 group-title="USA FHD", NICK JUNIOR
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64081
+#EXTINF:-1 group-title="USA FHD", NICK TOONS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64079
+#EXTINF:-1 group-title="USA FHD", NICKELODEON EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64080
+#EXTINF:-1 group-title="USA", NRB NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/4419
+#EXTINF:-1 group-title="USA", OLYMPIC CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14975
+#EXTINF:-1 group-title="USA", ONE AMERICA NEWS ENCORE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/21945
+#EXTINF:-1 group-title="USA", ONE AMERICA NEWS NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/21943
+#EXTINF:-1 group-title="USA", OUTDOOR CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15360
+#EXTINF:-1 group-title="USA", OUTSIDE TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14872
+#EXTINF:-1 group-title="USA", OVATION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15485
+#EXTINF:-1 group-title="USA FHD", OVATION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64077
+#EXTINF:-1 group-title="USA", OWN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/311
+#EXTINF:-1 group-title="USA FHD", OWN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64078
+#EXTINF:-1 group-title="USA", OXYGEN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1229
+#EXTINF:-1 group-title="USA FHD", OXYGEN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64076
+#EXTINF:-1 group-title="USA", PAC 12 ARIZONA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/399
+#EXTINF:-1 group-title="USA FHD", PAC 12 ARIZONA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64074
+#EXTINF:-1 group-title="USA", PAC 12 BAY AREA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/398
+#EXTINF:-1 group-title="USA FHD", PAC 12 BAY AREA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64073
+#EXTINF:-1 group-title="USA", PAC 12 LA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/397
+#EXTINF:-1 group-title="USA FHD", PAC 12 LOS ANGELES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64072
+#EXTINF:-1 group-title="USA", PAC 12 MOUNTAIN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/396
+#EXTINF:-1 group-title="USA FHD", PAC 12 MOUNTAIN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64071
+#EXTINF:-1 group-title="USA", PAC 12 NATIONAL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/395
+#EXTINF:-1 group-title="USA", PAC 12 OREGON
+http://185.232.53.5:2086/wickeduk/etqyhww45e/394
+#EXTINF:-1 group-title="USA FHD", PAC 12 OREGON
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64070
+#EXTINF:-1 group-title="USA", PAC 12 WASHINGTON
+http://185.232.53.5:2086/wickeduk/etqyhww45e/393
+#EXTINF:-1 group-title="USA FHD", PAC 12 WASHINGTON
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64069
+#EXTINF:-1 group-title="USA", PAC NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55612
+#EXTINF:-1 group-title="USA", PARAMOUNT NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/246
+#EXTINF:-1 group-title="USA FHD", PARAMOUNT NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64068
+#EXTINF:-1 group-title="USA", PBS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1739
+#EXTINF:-1 group-title="USA", PIXL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55946
+#EXTINF:-1 group-title="USA", PLUTO TV HEADLINES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/4414
+#EXTINF:-1 group-title="USA", POP
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15308
+#EXTINF:-1 group-title="USA FHD", POP
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64075
+#EXTINF:-1 group-title="USA FHD", PRIME TICKET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64067
+#EXTINF:-1 group-title="USA", PURSUIT CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/21948
+#EXTINF:-1 group-title="USA", QVC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1206
+#EXTINF:-1 group-title="USA", QVC 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1207
+#EXTINF:-1 group-title="USA", REDBULL TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8450
+#EXTINF:-1 group-title="USA", REELZ
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15466
+#EXTINF:-1 group-title="USA FHD", REELZ
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64064
+#EXTINF:-1 group-title="USA", REGALIA TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56026
+#EXTINF:-1 group-title="USA", RETRO PLEX
+http://185.232.53.5:2086/wickeduk/etqyhww45e/57852
+#EXTINF:-1 group-title="USA", REVOLT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15467
+#EXTINF:-1 group-title="USA FHD", REVOLT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64063
+#EXTINF:-1 group-title="USA", RIDE TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55614
+#EXTINF:-1 group-title="USA", RT AMERICA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/4408
+#EXTINF:-1 group-title="USA", RT DOCUMENTARY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/21952
+#EXTINF:-1 group-title="USA", RT ENGLISH
+http://185.232.53.5:2086/wickeduk/etqyhww45e/21951
+#EXTINF:-1 group-title="USA", SAFE TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/46381
+#EXTINF:-1 group-title="USA", SCIFI 4U
+https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
+#EXTINF:-1 group-title="USA", SEC NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1135
+#EXTINF:-1 group-title="USA FHD", SEC NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64062
+#EXTINF:-1 group-title="USA", SHOWTIME  NEXT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56137
+#EXTINF:-1 group-title="USA", SHOWTIME 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/331
+#EXTINF:-1 group-title="USA FHD", SHOWTIME 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64040
+#EXTINF:-1 group-title="USA", SHO X BET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1603
+#EXTINF:-1 group-title="USA", SHOWTIME EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/332
+#EXTINF:-1 group-title="USA FHD", SHOWTIME EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64043
+#EXTINF:-1 group-title="USA", SHOWTIME EXTREME
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8843
+#EXTINF:-1 group-title="USA", SHOWTIME FAMILY ZONE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56136
+#EXTINF:-1 group-title="USA FHD", SHOWTIME
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64041
+#EXTINF:-1 group-title="USA", SHOWTIME SHOWCASE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1604
+#EXTINF:-1 group-title="USA FHD", SHOWTIME SHOWCASE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64171
+#EXTINF:-1 group-title="USA", SHOWTIME WEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8842
+#EXTINF:-1 group-title="USA FHD", SHOWTIME WEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64042
+#EXTINF:-1 group-title="USA", SHOWTIME WOMEN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55613
+#EXTINF:-1 group-title="USA", SIDEWALKS TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/48027
+#EXTINF:-1 group-title="USA", SNY (SPORTSNET NEW YORK)
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8850
+#EXTINF:-1 group-title="USA", SOUTH EASTERN CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15520
+#EXTINF:-1 group-title="USA", SPECTRUM SPORTSNET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/52331
+#EXTINF:-1 group-title="USA", SPORTSMAN CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15468
+#EXTINF:-1 group-title="USA FHD", SPORTSMAN CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64039
+#EXTINF:-1 group-title="USA", STADIUM 1
+http://185.232.53.5:2086/wickeduk/etqyhww45e/18816
+#EXTINF:-1 group-title="USA", STADIUM 2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/18817
+#EXTINF:-1 group-title="USA", STARZ  ENCORE BLACK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56139
+#EXTINF:-1 group-title="USA FHD", STARZ CINEMA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64060
+#EXTINF:-1 group-title="USA", STARZ COMEDY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8844
+#EXTINF:-1 group-title="USA FHD", STARZ COMEDY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64059
+#EXTINF:-1 group-title="USA", STARZ EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/329
+#EXTINF:-1 group-title="USA FHD", STARZ EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64049
+#EXTINF:-1 group-title="USA", STARZ EDGE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/558
+#EXTINF:-1 group-title="USA FHD", STARZ EDGE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64058
+#EXTINF:-1 group-title="USA", STARZ ENCORE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/344
+#EXTINF:-1 group-title="USA", STARZ ENCORE ACTION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/8849
+#EXTINF:-1 group-title="USA FHD", STARZ ENCORE ACTION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64046
+#EXTINF:-1 group-title="USA FHD", STARZ ENCORE BLACK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64054
+#EXTINF:-1 group-title="USA", STARZ ENCORE CLASSIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56140
+#EXTINF:-1 group-title="USA FHD", STARZ ENCORE CLASSIC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64053
+#EXTINF:-1 group-title="USA FHD", STARZ ENCORE ESPANOL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64056
+#EXTINF:-1 group-title="USA", STARZ ENCORE FAMILY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56009
+#EXTINF:-1 group-title="USA FHD", STARZ ENCORE FAMILY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64052
+#EXTINF:-1 group-title="USA FHD", STARZ ENCORE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64057
+#EXTINF:-1 group-title="USA", STARZ ENCORE SUSPENSE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55999
+#EXTINF:-1 group-title="USA FHD", STARZ ENCORE SUSPENSE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64051
+#EXTINF:-1 group-title="USA", STARZ ENCORE WEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56007
+#EXTINF:-1 group-title="USA", STARZ ENCORE WESTERNS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1601
+#EXTINF:-1 group-title="USA FHD", STARZ ENCORE WESTERNS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64055
+#EXTINF:-1 group-title="USA FHD", STARZ
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64061
+#EXTINF:-1 group-title="USA FHD", STARZ IN BLACK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64047
+#EXTINF:-1 group-title="USA", STARZ KIDS & FAMILY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1132
+#EXTINF:-1 group-title="USA FHD", STARZ KIDS & FAMILY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64045
+#EXTINF:-1 group-title="USA", STARZ WEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/2490
+#EXTINF:-1 group-title="USA FHD", STARZ WEST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64048
+#EXTINF:-1 group-title="USA", SUNBURN TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/36349
+#EXTINF:-1 group-title="USA", SUNDANCE TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1284
+#EXTINF:-1 group-title="USA FHD", SUNDANCE TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64038
+#EXTINF:-1 group-title="USA", SYFY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/245
+#EXTINF:-1 group-title="TEST",SYFY
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64037
+#EXTINF:-1 group-title="USA", TBD
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14052
+#EXTINF:-1 group-title="USA", TBS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/301
+#EXTINF:-1 group-title="USA FHD", TBS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64036
+#EXTINF:-1 group-title="USA FHD", TEEN NICK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64030
+#EXTINF:-1 group-title="USA", TENNIS CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/327
+#EXTINF:-1 group-title="USA FHD", TENNIS CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64029
+#EXTINF:-1 group-title="USA", THE COWBOY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55998
+#EXTINF:-1 group-title="USA", THE OUTDOOR COOKING CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/13859
+#EXTINF:-1 group-title="USA", THE SHOPPING CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14854
+#EXTINF:-1 group-title="USA", THE WEATHER CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/400
+#EXTINF:-1 group-title="USA FHD", THE WEATHER CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64028
+#EXTINF:-1 group-title="USA", THE WORKS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/53243
+#EXTINF:-1 group-title="USA", TLC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/119
+#EXTINF:-1 group-title="USA FHD", TLC
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64034
+#EXTINF:-1 group-title="USA", TNT EAST
+http://185.232.53.5:2086/wickeduk/etqyhww45e/298
+#EXTINF:-1 group-title="USA FHD", TNT
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64033
+#EXTINF:-1 group-title="USA", TRAVEL 4U
+https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
+#EXTINF:-1 group-title="USA", TRAVEL CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/326
+#EXTINF:-1 group-title="USA FHD", TRAVEL CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64027
+#EXTINF:-1 group-title="USA", TRU TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/312
+#EXTINF:-1 group-title="USA FHD", TRU TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64026
+#EXTINF:-1 group-title="USA", TURNER CLASSIC MOVIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/128
+#EXTINF:-1 group-title="USA FHD", TURNER CLASSIC MOVIES
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64035
+#EXTINF:-1 group-title="USA", TV LAND
+http://185.232.53.5:2086/wickeduk/etqyhww45e/325
+#EXTINF:-1 group-title="USA FHD", TV LAND
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64032
+#EXTINF:-1 group-title="USA FHD", TV ONE
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64031
+#EXTINF:-1 group-title="USA", TVG
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15049
+#EXTINF:-1 group-title="USA", TVG2
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15050
+#EXTINF:-1 group-title="USA", UFC FIGHT PASS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14019
+#EXTINF:-1 group-title="USA FHD", UNIVERSAL KIDS
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64024
+#EXTINF:-1 group-title="USA", UNIVERSITY OF CALIFORNIA TELEVISION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/15040
+#EXTINF:-1 group-title="USA", UP
+http://185.232.53.5:2086/wickeduk/etqyhww45e/59383
+#EXTINF:-1 group-title="USA", USA NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/242
+#EXTINF:-1 group-title="USA FHD", USA FHD NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64025
+#EXTINF:-1 group-title="USA", VH1
+http://185.232.53.5:2086/wickeduk/etqyhww45e/402
+#EXTINF:-1 group-title="USA FHD", VH1
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64023
+#EXTINF:-1 group-title="USA", VICELAND
+http://185.232.53.5:2086/wickeduk/etqyhww45e/477
+#EXTINF:-1 group-title="USA FHD", VICELAND
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64022
+#EXTINF:-1 group-title="USA", VOICE OF AMERICA (EST)
+http://185.232.53.5:2086/wickeduk/etqyhww45e/48026
+#EXTINF:-1 group-title="USA", VOICE OF AMERICA (PST)
+http://185.232.53.5:2086/wickeduk/etqyhww45e/48025
+#EXTINF:-1 group-title="USA", WAPA AMERICA
+http://185.232.53.5:2086/wickeduk/etqyhww45e/56142
+#EXTINF:-1 group-title="USA", WE TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/470
+#EXTINF:-1 group-title="USA FHD", WE TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64021
+#EXTINF:-1 group-title="USA", WEATHER NATION
+http://185.232.53.5:2086/wickeduk/etqyhww45e/14047
+#EXTINF:-1 group-title="USA", WGN
+http://185.232.53.5:2086/wickeduk/etqyhww45e/3194
+#EXTINF:-1 group-title="USA", WILLOWXTRA CRICKET
+http://185.232.53.5:2086/wickeduk/etqyhww45e/55997
+#EXTINF:-1 group-title="USA", WORLD FISHING NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/53214
+#EXTINF:-1 group-title="USA FHD", WORLD FISHING NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64020
+#EXTINF:-1 group-title="USA", XCORPS TV
+http://185.232.53.5:2086/wickeduk/etqyhww45e/36340
+#EXTINF:-1 group-title="USA", YES NETWORK
+http://185.232.53.5:2086/wickeduk/etqyhww45e/1673
+#EXTINF:-1 group-title="USA", Z LIVING
+http://185.232.53.5:2086/wickeduk/etqyhww45e/58109
+#EXTINF:-1 group-title="USA", DISCOVERY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/255
+#EXTINF:-1 group-title="USA FHD", DISCOVERY CHANNEL
+http://185.232.53.5:2086/wickeduk/etqyhww45e/64162
